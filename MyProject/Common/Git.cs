@@ -8,5 +8,10 @@ namespace Common
 {
     public class Git
     {
+
+        public Git()
+        {
+
+        }
     }
 }
